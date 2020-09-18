@@ -52,7 +52,7 @@ menu:
         
 classical:
   - title: '安全蜜罐'
-    url: '/安全/risk-honeypot/'
+    url: '/安全/蜜罐/'
 
 coding_comments:
   owner: 'shengyang'
